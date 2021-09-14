@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\settings.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\ship.py">
           <value>
             <Attribute>
